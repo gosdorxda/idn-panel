@@ -2,19 +2,19 @@
 /* Font Pack One*/
 @font-face {
   font-family: 'Sealic-Light';
-  src: url('../fonts/sealic_light.woff2') format('woff2');
+  src: url('https://flyhash.cc/assets/fonts/sealic_light.woff2') format('woff2');
 }
 @font-face {
   font-family: 'Sealic-Regular';
-  src: url('../fonts/sealic_regular.woff2') format('woff2');
+  src: url('https://flyhash.cc/assets/fonts/sealic_regular.woff2') format('woff2');
 }
 @font-face {
   font-family: 'Sealic-Medium';
-  src: url('../fonts/sealic_medium.woff2') format('woff2');
+  src: url('https://flyhash.cc/assets/fonts/sealic_medium.woff2') format('woff2');
 }
 @font-face {
   font-family: 'Sealic-Bold';
-  src: url('../fonts/sealic_bold.woff2') format('woff2');
+  src: url('https://flyhash.cc/assets/fonts/sealic_bold.woff2') format('woff2');
 }
 
 html {
